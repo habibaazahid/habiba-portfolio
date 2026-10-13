@@ -1,7 +1,5 @@
 # Habiba Zahid | Portfolio
 
-Personal portfolio of **Habiba Zahid**, an AI Engineer specializing in AI agents, intelligent automation, and full-stack web development. Computer Science student at IU International University of Applied Sciences, Germany.
-
 **Live Website:** [myportfolio.habibazahid.com](https://myportfolio.habibazahid.com)
 
 ## Features
