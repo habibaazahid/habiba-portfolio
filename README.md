@@ -1,18 +1,28 @@
-Personal portfolio of Habiba Zahid, an AI Engineer, AI Agents & Automation Developer, and Frontend Developer. Currently pursuing a BS in Computer Science at IU International University of Applied Sciences, Germany.
+# Habiba Zahid | Portfolio
 
-About
+Personal portfolio of **Habiba Zahid**, an AI Engineer specializing in AI agents, intelligent automation, and full-stack web development. Computer Science student at IU International University of Applied Sciences, Germany.
 
-A responsive, single-page portfolio showcasing my projects, technical skills, education, experience, certifications, and contact information.
+**Live Website:** [myportfolio.habibazahid.com](https://myportfolio.habibazahid.com)
 
-Features
-Responsive design with light and dark modes
-Interactive animations and smooth navigation
-Filterable project gallery
-Education, experience, skills, and certifications
-Downloadable CV
-Contact form and social links
-Accessible design with reduced-motion support
-Tech Stack
-HTML5
-CSS3
-Vanilla JavaScript
+## Features
+
+* Showcase of AI agents, business automation, competitor intelligence, and full-stack projects
+* Dedicated sections for experience, education, certifications, and technical skills
+* Interactive hero animation with light and dark modes
+* Responsive, accessible, and performance-focused design
+* Downloadable CV and contact form
+
+## Tech Stack
+
+* **HTML5** — Semantic and accessible structure
+* **CSS3** — Responsive layouts, themes, and animations
+* **JavaScript (ES6)** — Interactivity, navigation, filtering, and UI effects
+* **Canvas API** — Animated network background
+* **Inter** — Typography via Google Fonts
+* **GitHub & Vercel** — Version control and deployment
+
+## Contact
+
+* **Email:** [habibaazahid@gmail.com](mailto:habibaazahid@gmail.com)
+* **LinkedIn:** [linkedin.com/in/habibazahid03](https://www.linkedin.com/in/habibazahid03)
+* **GitHub:** [github.com/habibaazahid](https://github.com/habibaazahid)
