@@ -605,3 +605,6 @@ body, button, input, textarea { font-family: var(--display); }
 .panel-stat b { letter-spacing: -.035em; }
 p, li, dd, dt { font-weight: 400; }
 .about-actions { gap: .9rem; }
+
+/* ---- v6 FIX: hero subtitle perfectly centred ---- */
+.hero-sub { text-align: center; text-indent: .2em; }
